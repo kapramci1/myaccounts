@@ -2,7 +2,7 @@
 const CACHE_NAME = 'myaccounts-v1';
 const urlsToCache = [
   '.',
-  'MyAccounts.html'
+  'index.html'
 ];
 
 self.addEventListener('install', event => {
